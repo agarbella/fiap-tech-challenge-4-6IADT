@@ -1,0 +1,29 @@
+{
+  "total_frames_analyzed": 3326,
+  "duration_s": 110.86666666666666,
+  "fps": 30.0,
+  "anomalias_detectadas": 27,
+  "emocao_predominante": "unknown",
+  "atividade_predominante": "parado",
+  "contagem_emocoes": {
+    "unknown": 41,
+    "happy": 34,
+    "angry": 22,
+    "sad": 17,
+    "neutral": 38,
+    "surprise": 29,
+    "disgust": 6,
+    "fear": 5
+  },
+  "contagem_atividades": {
+    "parado": 1897,
+    "movimento": 1402,
+    "movimento_brusco": 27
+  },
+  "outputs": {
+    "annotated_video": "outputs/annotated.mp4",
+    "events_csv": "outputs/events.csv",
+    "report_txt": "outputs/report.txt",
+    "report_json": "outputs/report.json"
+  }
+}

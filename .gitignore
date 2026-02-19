@@ -13,9 +13,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Outputs gerados
-outputs/
-
 # Logs
 *.log
 

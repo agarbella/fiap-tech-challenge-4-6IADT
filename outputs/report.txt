@@ -1,0 +1,21 @@
+RESUMO AUTOMÁTICO - TECH CHALLENGE
+
+Total de frames analisados: 3326
+Número de anomalias detectadas: 27
+Emoção predominante: unknown
+Atividade predominante: parado
+
+Contagem de atividades:
+- parado: 1897
+- movimento: 1402
+- movimento_brusco: 27
+
+Contagem de emoções (amostradas):
+- unknown: 41
+- neutral: 38
+- happy: 34
+- surprise: 29
+- angry: 22
+- sad: 17
+- disgust: 6
+- fear: 5
